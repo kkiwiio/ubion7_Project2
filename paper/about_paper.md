@@ -1,11 +1,7 @@
 # 논문 발표
 유비온 7기 2차 프로젝트를 위한 논문발표 자료입니다. 
 
-![띠부띠부실 논문 발표_pages-to-jpg-0054](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/05de5a28-c25a-48b4-a87d-16b70faddb7b)
-![띠부띠부실 논문 발표_pages-to-jpg-0055](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/764f5185-ae95-4acf-a269-cd06738b1767)
-![띠부띠부실 논문 발표_pages-to-jpg-0056](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/98805f2b-db2d-44c7-b7bd-84f9b2ec32e4)
-![띠부띠부실 논문 발표_pages-to-jpg-0057](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/c2f85cd1-2269-470c-8daa-591bf813755d)
-![띠부띠부실 논문 발표_pages-to-jpg-0058](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/4faccb5f-0acb-4033-8a2c-d28440a1b803)
+
 ![띠부띠부실 논문 발표_pages-to-jpg-0001](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/71fe901c-bf29-494f-8813-4541fc555a82)
 ![띠부띠부실 논문 발표_pages-to-jpg-0002](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/f0426b1c-1412-4fc0-a2c4-4a088a0648d7)
 ![띠부띠부실 논문 발표_pages-to-jpg-0003](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/90db6ea4-94a4-4aa8-9cad-963dc81bc6d6)
@@ -59,3 +55,8 @@
 ![띠부띠부실 논문 발표_pages-to-jpg-0051](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/0c6527fc-30c8-4a8d-8913-f6926bf89819)
 ![띠부띠부실 논문 발표_pages-to-jpg-0052](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/b2651677-74d2-4dde-848f-afdb1a4c9254)
 ![띠부띠부실 논문 발표_pages-to-jpg-0053](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/0b57f9de-2d4a-438f-bfef-8652a417cb9a)
+![띠부띠부실 논문 발표_pages-to-jpg-0054](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/05de5a28-c25a-48b4-a87d-16b70faddb7b)
+![띠부띠부실 논문 발표_pages-to-jpg-0055](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/764f5185-ae95-4acf-a269-cd06738b1767)
+![띠부띠부실 논문 발표_pages-to-jpg-0056](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/98805f2b-db2d-44c7-b7bd-84f9b2ec32e4)
+![띠부띠부실 논문 발표_pages-to-jpg-0057](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/c2f85cd1-2269-470c-8daa-591bf813755d)
+![띠부띠부실 논문 발표_pages-to-jpg-0058](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/4faccb5f-0acb-4033-8a2c-d28440a1b803)
