@@ -1,4 +1,4 @@
-#논문 발표
+# 논문 발표
 유비온 7기 2차 프로젝트를 위한 논문발표 자료입니다. 
 
 ![띠부띠부실 논문 발표_pages-to-jpg-0054](https://github.com/kkiwiio/ubion7_Project2/assets/121476928/05de5a28-c25a-48b4-a87d-16b70faddb7b)
